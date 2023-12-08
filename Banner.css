@@ -1,0 +1,8 @@
+#id1{
+    text-align: center;
+    margin-left: auto;
+    margin-bottom: 5px;
+    flex: content;
+    flex-wrap: wrap;
+    justify-content: center;
+}
