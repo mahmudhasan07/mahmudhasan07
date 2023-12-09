@@ -19,7 +19,7 @@
 
 <h2>Contact With Me</h2>
 
-<div align="center" style="display: flex;">
+<div markdown="1" align="center" style="display: flex">
 
 <div >
 
@@ -37,7 +37,7 @@
 </div>
 
 <h2>My Skills in Technologies</h2>
-<div align="center">
+<div align="center" style="margin-bottom: 10px; margin-top: 20px;">
 
 <img src="images/html.svg" alt="">
 <img src="images/css.svg" alt="">
@@ -47,7 +47,7 @@
 
 
 </div>
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
 
 <img src="images/react.svg" alt="">
 <img src="images/node.svg" alt="">
@@ -55,7 +55,7 @@
 
 
 </div>
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
 <img src="images/express.svg" alt="">
 <img src="images/mongo.svg" alt="">
 
