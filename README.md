@@ -1,10 +1,10 @@
 
-<div style="width: 70%; margin: auto;">
+<div style="margin: auto;">
 
 <!-- ![The San Juan Mountains are beautiful!](/images/New-file%20(9).gif "Mahmud Hasan") -->
 
 
-<img src="images/New-file (9).gif" alt="">
+<img style="width: 70%;" src="images/New-file (9).gif" alt="">
 </div>
 
 <h2>Current Stats</h2>
