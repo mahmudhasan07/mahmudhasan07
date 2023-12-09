@@ -1,7 +1,7 @@
 <section >
 
 <div align="center">
-<img style="width: 80%;"  src="images/New-file (9).gif" alt="">
+<img style="width: 80%;"  src="images/New-file (10).gif" alt="">
 </div>
 
 <h2>Current Stats</h2>
