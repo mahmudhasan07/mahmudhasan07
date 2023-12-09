@@ -1,0 +1,18 @@
+{
+    "mode": "daily",
+    "totalContributions": 2048,
+    "firstContribution": "2016-08-10",
+    "longestStreak": {
+      "start": "2021-12-19",
+      "end": "2022-03-14",
+      "length": 86
+    },
+    "currentStreak": {
+      "start": "2023-11-24",
+      "end": "2023-12-09",
+      "length": 16
+    },
+    "excludedDays": [
+      "Sun"
+    ]
+  }

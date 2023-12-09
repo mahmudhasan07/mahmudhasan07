@@ -1,10 +1,9 @@
-<h1>👋Hello, I'm Mahmud Hasan Siddique</h1>
 
 ![The San Juan Mountains are beautiful!](/images/New-file%20(9).gif "Mahmud Hasan")
 
 <h2>Current Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahmud&theme=blue-navy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahmudhasan07&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
 
 <h2>Contact With Me</h2>
@@ -42,7 +41,17 @@
 
 <h2>Overview</h2>
 
-<p>I am a developer - with a passion for learning and developing new skills.
+<p>🧑‍💻 I am a developer - with a passion for learning and developing new skills.
 <p> I am trying - to solve advance problem of react and node.js
-<p>I am always - trying to learn a new topic about my work.
+<p> I am always - trying to learn a new topic about my work.
 <p> 
+
+
+<h1>Summary cards of my activities</h1>
+<div>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudhasan07&theme=transparent)
+</div>
+
+
