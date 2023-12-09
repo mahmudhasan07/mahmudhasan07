@@ -37,7 +37,7 @@
 </div>
 
 <h2>My Skills in Technologies</h2>
-<div style="text-align:center; margin-top: 20px; margin-bottom: 5px;">
+<div align="center">
 
 <img src="images/html.svg" alt="">
 <img src="images/css.svg" alt="">
@@ -47,7 +47,7 @@
 
 
 </div>
-<div style="text-align:center; margin-bottom: 5px;">
+<div align="center">
 
 <img src="images/react.svg" alt="">
 <img src="images/node.svg" alt="">
@@ -55,7 +55,7 @@
 
 
 </div>
-<div style="text-align:center; margin-bottom: 5px;">
+<div align="center">
 <img src="images/express.svg" alt="">
 <img src="images/mongo.svg" alt="">
 
