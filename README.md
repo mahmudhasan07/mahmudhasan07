@@ -20,18 +20,10 @@
 <h2>My Skills in Technologies</h2>
 <div align="center">
 <br>
-<img style="width: 15%;"
-style="width: 15%;"
-style="width: 15%;" src="images/html.svg" alt="">
-<img style="width: 15%;"
-style="width: 15%;"
-style="width: 15%;"  src="images/css.svg" alt="">
-<img style="width: 15%;"
-style="width: 15%;"
-style="width: 15%;"  src="images/java.svg" alt="">
-<img style="width: 15%;"
-style="width: 15%;"
-style="width: 15%;" src="images/Metarial.svg" alt="">
+<img style="width: 10%;" src="images/html.svg" alt="">
+<img style="width: 12%;" src="images/css.svg" alt="">
+<img style="width: 15%;" src="images/java.svg" alt="">
+<img style="width: 15%;" src="images/Metarial.svg" alt="">
 </div>
 <br>
 <div align="center">
@@ -42,12 +34,8 @@ style="width: 15%;" src="images/Metarial.svg" alt="">
 </div>
 <br>
 <div align="center" style="margin-bottom: 10px;">
-<img style="width: 15%;"
-style="width: 15%;"
-style="width: 15%;" src="images/express.svg" alt="">
-<img style="width: 15%;"
-style="width: 15%;"
-style="width: 15%;" src="images/mongo.svg" alt="">
+<img style="width: 15%;" src="images/express.svg" alt="">
+<img style="width: 15%;" src="images/mongo.svg" alt="">
 
 </div>
 
