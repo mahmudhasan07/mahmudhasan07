@@ -27,21 +27,21 @@
 </div>
 
 <h2>My Skills in Technologies</h2>
-<div align="center" style="margin-bottom: 10px; margin-top: 20px;">
+<div align="center">
 
-<img src="images/html.svg" alt="">
-<img src="images/css.svg" alt="">
-<img src="images/java.svg" alt="">
-<img src="images/Metarial.svg" alt="">
+<img style="margin-bottom: 10px; margin-top: 20px;" src="images/html.svg" alt="">
+<img style="margin-bottom: 10px; margin-top: 20px;" src="images/css.svg" alt="">
+<img style="margin-bottom: 10px; margin-top: 20px;" src="images/java.svg" alt="">
+<img style="margin-bottom: 10px; margin-top: 20px;" src="images/Metarial.svg" alt="">
 
 
 
 </div>
-<div align="center" style="margin-bottom: 10px;">
+<div align="center">
 
-<img src="images/react.svg" alt="">
-<img src="images/node.svg" alt="">
-<img src="images/meta.svg" alt="">
+<img style="margin-bottom: 10px;" src="images/react.svg" alt="">
+<img style="margin-bottom: 10px;" src="images/node.svg" alt="">
+<img style="margin-bottom: 10px;" src="images/meta.svg" alt="">
 
 
 </div>
@@ -65,21 +65,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudhasan07&theme=transparent)
 </div>
 
-<div align="center" style="display: flex;">
-<p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmudhasan07&theme=transparent)
-</p>
-<p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmudhasan07&theme=transparent)
-</p>
+<div style="display: flex;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmudhasan07&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmudhasan07&theme=transparent" />
 </div>
 
 <div style="display : flex">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmudhasan07&theme=transparent)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmudhasan07&theme=transparent&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmudhasan07&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmudhasan07&theme=transparent&utcOffset=8"/>
 </div>
 
