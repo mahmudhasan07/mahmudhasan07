@@ -3,7 +3,12 @@
 
 <h2>Current Stats</h2>
 
+<div style="text-align:center;">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahmudhasan07&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+
+</div>
+
 
 
 <h2>Contact With Me</h2>
