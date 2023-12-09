@@ -19,9 +19,9 @@
 
 <h2>Contact With Me</h2>
 
-<div style ="flex: auto; flex-wrap: wrap; justify-content: center; text-align: center;">
-
 <div align="center">
+
+<div >
 
 ![The San Juan Mountains are beautiful!](/images/Facebook.png "Mahmud Hasan")
 </div>
@@ -70,13 +70,20 @@
 
 
 <h1>Summary cards of my activities</h1>
-<div style="text-align: center;">
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudhasan07&theme=transparent)
 </div>
 
 <div style="text-align: center;">
 
+<p align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmudhasan07&theme=transparent)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmudhasan07&theme=transparent)
+</p>
+
+
 </div>
 
