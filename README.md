@@ -21,19 +21,13 @@
 
 <div markdown="1" align="center" style="display: flex">
 
-<div >
-
 ![The San Juan Mountains are beautiful!](/images/Facebook.png "Mahmud Hasan")
-</div>
-<div style ="flex: auto;">
+<br>
 
 ![The San Juan Mountains are beautiful!](/images/Linkedin.png "Mahmud Hasan")
-</div>
-<div style ="flex: auto;">
+<br>
 
 ![The San Juan Mountains are beautiful!](/images/Twitter.png "Mahmud Hasan")
-</div>
-
 </div>
 
 <h2>My Skills in Technologies</h2>
