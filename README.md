@@ -1,3 +1,4 @@
+<section >
 
 <div align="center">
 <img style="width: 80%;"  src="images/New-file (9).gif" alt="">
@@ -6,7 +7,7 @@
 <h2>Current Stats</h2>
 <div align="center">
 
-<img style="width: 550px;" src="https://streak-stats.demolab.com?user=mahmudhasan07&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun"/>
+<img style="width: 650px;" src="https://streak-stats.demolab.com?user=mahmudhasan07&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun"/>
 </div>
 
 <h2>Contact With Me</h2>
@@ -63,4 +64,5 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmudhasan07&theme=transparent"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmudhasan07&theme=transparent&utcOffset=8"/>
 </div>
+</section>
 
