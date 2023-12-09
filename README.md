@@ -19,7 +19,7 @@
 
 <h2>Contact With Me</h2>
 
-<div align="center">
+<div align="center" style="display: flex;">
 
 <div >
 
@@ -75,17 +75,21 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudhasan07&theme=transparent)
 </div>
 
-<div align="center">
-
-<p style="width: 50%;">
+<div align="center" style="display: flex;">
+<p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmudhasan07&theme=transparent)
 </p>
-<p width: 50%;>
+<p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmudhasan07&theme=transparent)
 </p>
+</div>
 
+<div style="display : flex">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmudhasan07&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmudhasan07&theme=transparent&utcOffset=8)
 </div>
 
