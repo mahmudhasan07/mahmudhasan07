@@ -6,7 +6,7 @@
 <h2>Current Stats</h2>
 <div align="center">
 
-<img style="width: 800px;" src="https://streak-stats.demolab.com?user=mahmudhasan07&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun"/>
+<img style="width: 550px;" src="https://streak-stats.demolab.com?user=mahmudhasan07&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun"/>
 </div>
 
 <h2>Contact With Me</h2>
@@ -21,21 +21,21 @@
 <div align="center">
 <br>
 <img style="width: 10%;" src="images/html.svg" alt="">
-<img style="width: 12%;" src="images/css.svg" alt="">
-<img style="width: 15%;" src="images/java.svg" alt="">
-<img style="width: 15%;" src="images/Metarial.svg" alt="">
+<img style="width: 10%;" src="images/css.svg" alt="">
+<img style="width: 10%;" src="images/java.svg" alt="">
+<img style="width: 10%;" src="images/Metarial.svg" alt="">
 </div>
 <br>
 <div align="center">
 
-<img style="width: 15%;" src="images/react.svg" alt="">
-<img style="width: 15%;" src="images/node.svg" alt="">
-<img style="width: 15%;" src="images/meta.svg" alt="">
+<img style="width: 10%;" src="images/react.svg" alt="">
+<img style="width: 10%;" src="images/node.svg" alt="">
+<img style="width: 10%;" src="images/meta.svg" alt="">
 </div>
 <br>
 <div align="center" style="margin-bottom: 10px;">
-<img style="width: 15%;" src="images/express.svg" alt="">
-<img style="width: 15%;" src="images/mongo.svg" alt="">
+<img style="width: 10%;" src="images/express.svg" alt="">
+<img style="width: 10%;" src="images/mongo.svg" alt="">
 
 </div>
 
