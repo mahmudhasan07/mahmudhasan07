@@ -75,11 +75,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudhasan07&theme=transparent)
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
-<p align="center">
+<p style="width: 50%;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmudhasan07&theme=transparent)
+</p>
+<p width: 50%;>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmudhasan07&theme=transparent)
 </p>
