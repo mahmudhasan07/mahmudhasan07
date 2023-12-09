@@ -1,7 +1,10 @@
 
 <div style="width: 70%; margin: auto;">
 
-![The San Juan Mountains are beautiful!](/images/New-file%20(9).gif "Mahmud Hasan")
+<!-- ![The San Juan Mountains are beautiful!](/images/New-file%20(9).gif "Mahmud Hasan") -->
+
+
+<img src="images/New-file (9).gif" alt="">
 </div>
 
 <h2>Current Stats</h2>
