@@ -1,7 +1,7 @@
 <section >
 
 <div align="center">
-<img style="width: 85%" src="images/New-file (10).gif" alt="">
+<img style="width: 85%" src="images/Mahmud Hasan.gif" alt="">
 </div>
 
 <h2>Current Stats</h2>
